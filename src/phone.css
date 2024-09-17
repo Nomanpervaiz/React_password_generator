@@ -1,0 +1,11 @@
+
+@media only screen and (max-width:465px) {
+    .custonRadius{
+        border-radius: 10px ;
+
+    }
+ .optionDivMain{
+    display: flex;
+    flex-direction:column ;
+ }   
+}
